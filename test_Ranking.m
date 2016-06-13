@@ -105,7 +105,7 @@ for k =1:length(kname) % kernel for loop, select different kernel
                     case {'svmml'}
                         [algo{c}] = svmml_learn_full_final(single(train{c}),gID(idx_train)',AlgoOption);
                     case {'KISSME'}                        
-                        [algo{c}] = kissme(single(train{c}'),ix_pair,y,AlgoOption);
+                        [algo{c}] = kissme(train{c}',ix_pair,y,AlgoOption);
                 end
             end
             disp('The training time is:')

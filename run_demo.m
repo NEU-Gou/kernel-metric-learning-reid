@@ -6,7 +6,7 @@ addpath(genpath('Assistant Code'));
 mkdir('feature');
 %%
 % name of metric learning algorithm 
-algoname = 'PCCA'; %'oLFDA'; 'PCCA'; 'rPCCA'; 'LFDA'; 'MFA'; 'KISSME'; 'svmml' 
+algoname = 'LFDA'; %'oLFDA'; 'PCCA'; 'rPCCA'; 'LFDA'; 'MFA'; 'KISSME'; 'svmml' 
 % dataset name
 dataset_name = 'iLIDS'; %{'VIPeR' 'iLIDS' 'CAVIAR' '3DPeS'};
 % kernel name
