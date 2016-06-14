@@ -38,13 +38,13 @@ If you use this code please cite the following paper:
 X. Fei, M. Gou, O. Camps and M. Sznaier: "Person Re-Identification using Kernel-based Metric Learning Methods". In ECCV 2014.
 If you use oLFDA, PCCA, KISSME or svmml in this package, please refer the original paper properly.
 - oLFDA
-    Pedagadi, S., Orwell, J., Velastin, S., Boghossian, B.: Local sher discriminant analysis for pedestrian re-identification. In CVPR 2013
+    Pedagadi, S., Orwell, J., Velastin, S., Boghossian, B.: Local fisher discriminant analysis for pedestrian re-identification. In CVPR 2013
 - PCCA
     Mignon, A., Jurie, F.: Pcca: A new approach for distance learning from sparse pairwise constraints. In CVPR 2012
 - KISSME
     Kostinger, M., Hirzer, M.,Wohlhart, P., Roth, P.M., Bischof, H.: Large scale metric learning from equivalence constraints. In CVPR 2012
 - svmml
-    Li, Z., Chang, S., Liang, F., Huang, T.S., Cao, L., Smith, J.R.: Learning locally-adaptive decision functions for person verication. In CVPR 2013
+    Li, Z., Chang, S., Liang, F., Huang, T.S., Cao, L., Smith, J.R.: Learning locally-adaptive decision functions for person verication. In CVPR 2013
 
 
 CHANGELOG:
